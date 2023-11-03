@@ -1,7 +1,7 @@
-jsonify~=0.5
-pydub~=0.25.1
-flask~=3.0.0
-werkzeug~=3.0.1
+jsonify
+pydub
+flask
+werkzeug
 malaya_speech
 Gunicorn
 torch
