@@ -5,7 +5,7 @@ import os
 import time
 import malaya_speech
 
-from flask import *
+from flask import Flask, request
 from werkzeug.utils import secure_filename
 
 app = Flask(__name__)
